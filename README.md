@@ -1,7 +1,5 @@
 # Gravity Simulation Website V2.6
 
-![Gravity Simulation Screenshot](https://via.placeholder.com/800x400?text=Gravity+Simulation+Demo) <!-- Replace with actual screenshot if available -->
-
 This is a web-based gravity simulation tool that allows users to create and simulate particles under gravitational forces. Built with HTML, CSS, and JavaScript, it provides an interactive canvas for visualizing particle interactions, with features like customizable settings, particle generation, templates, and real-time controls.
 
 Live Demo: [https://yogurtramune.github.io/gravitysimulation/](https://yogurtramune.github.io/gravitysimulation/)
@@ -186,3 +184,4 @@ Example Solar System Template:
 Copyright © YogurtRamune 2025. All rights reserved.
 
 This project is not open-source for commercial use without permission. See the code for details.
+
